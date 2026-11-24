@@ -2,7 +2,7 @@ SkinSafe AI – Dataset Documentation
 
 This folder contains datasets used for cosmetic product information, ingredient identification and personalised skincare recommendations.
 
-1. Open Beauty Facts
+## 1. Open Beauty Facts
 
 - File: "en.openbeautyfacts.org.products.csv.gz"
 - Source: https://world.openbeautyfacts.org/
@@ -26,7 +26,7 @@ Preprocessing:
 - Clean ingredient names
 - Filter products with ingredient information
 
-2. Skincare Ingredients Dataset
+##2. Skincare Ingredients Dataset
 
 - File: "ingredients.csv"
 - Source: https://github.com/bsyilmaz/skincare-ingredients-dataset
