@@ -70,4 +70,30 @@ These datasets will support:
 4. Product comparison
 5. Alternative product recommendation
 
+## 3. SkinGuide Survey Dataset
+
+- File: skinguide_survey.csv
+- Source: https://github.com/alida-labs/skinguide
+- Licence: CC BY 4.0
+
+Purpose:
+Provides consumer skincare survey information.
+
+Dataset details:
+- 19,128 responses
+- 30 variables
+- Data collected between 2020 and 2024
+- Demographics
+- Skin concerns
+- Product preferences
+- Self-assessment data
+
+Project usage:
+- Understand user-reported skin concerns
+- Study product preferences
+- Support personalised recommendation development
+
+Limitation:
+Survey responses are self-reported and do not establish clinical skin compatibility.
+
 Note: SkinSafe AI is an informational decision-support platform, not a medical diagnosis or product safety certification system.
