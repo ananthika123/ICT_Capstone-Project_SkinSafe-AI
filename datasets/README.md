@@ -26,7 +26,7 @@ Preprocessing:
 - Clean ingredient names
 - Filter products with ingredient information
 
-##2. Skincare Ingredients Dataset
+## 2. Skincare Ingredients Dataset
 
 - File: "ingredients.csv"
 - Source: https://github.com/bsyilmaz/skincare-ingredients-dataset
